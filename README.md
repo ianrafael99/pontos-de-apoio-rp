@@ -18,9 +18,6 @@ Aluno: Ian Rafael Ferreira Batista – RU 4388635
 - Busca por nome ou rua e filtro por tipo de resíduo.
 - Funciona sem internet para consultar a lista (os dados ficam no próprio app).
 
-| Lista | Mais próximos | Detalhes |
-| --- | --- | --- |
-| ![Lista](docs/tela-lista.png) | ![Mais próximos](docs/tela-proximos.png) | ![Detalhes](docs/tela-detalhe.png) |
 
 ## Tecnologias
 
